@@ -1,0 +1,5 @@
+streamlit
+vectorbt
+talib
+pandas
+yfinance
